@@ -5,7 +5,7 @@ permalink: /Enterprise/
 ---
 
 
-We follow the world of ENTERPRISE ... we are referring to enterprising developments in different realms ... early, early seed stage nanoenterprises ... government data initiatives ... scientific research, especially in nontraditional realms
+If we want to understand who's making Category Theory really work, we look to the world of ENTERPRISE ... not just Google, search and advertising ... but who else
 
 # Curated Collections of Enterprise
 
