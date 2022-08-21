@@ -1,9 +1,9 @@
 # Site settings
 title: 3Venn Blog
-email: X@3venn.com
-description: Explain the intersection between three groups
-twitter_username: 3venn
-github_username:  3venn
+email: X@3Venn.com
+description: Explain the intersection or morphism between three groups
+twitter_username: 3VennX
+github_username:  3Venn
 
 # Build settings
 markdown: kramdown
