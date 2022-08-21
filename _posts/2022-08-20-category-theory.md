@@ -8,4 +8,4 @@ categories: background
 
 # Category Theory
 
-Start with [Awesome Category Theory](https://github.com/gbroques/awesome-category-theory)
+Start with [Awesome Category Theory](https://github.com/gbroques/awesome-category-theory) or maybe [the "Categpry Theory" top in **nlab**](https://ncatlab.org/nlab/show/category+theory)
